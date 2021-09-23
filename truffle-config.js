@@ -39,6 +39,6 @@ module.exports = {
     'truffle-plugin-verify'
   ],
   api_keys: {
-    bscscan: "ZDFPQFY2R498EXKG6TCW5ZWNNFQYH3EZBA"
+    bscscan: ""
   }
 };
